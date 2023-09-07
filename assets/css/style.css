@@ -1,0 +1,10 @@
+.minHeight{
+    overflow-y: scroll;
+    min-height: 650px;
+    max-height: 650px;
+    
+}
+.fas-font
+{
+    font-size: 20px;
+}
